@@ -17,8 +17,7 @@ def main():
              "Puked for hours on end",
              "Took on a dump in the street",
              "Hijacked a plane",
-             "Went to war with",
-             "Ended up back in time with",
+             "Ended up back in time",
              "Slapped Shakespeer with the notes to Romeo and Juliet",
              "Was stuck in a hole", ]
     charachter = input(
