@@ -1,4 +1,4 @@
-print(r"Welcome to the Family Guy joke creator, create any Family Guy cutaway-gag you'd like, simply input the charachter you'd like in your joke, and the program with create it")
+print(r"Welcome to the Family Guy joke creator, create any Family Guy cutaway-gag you'd like, simply input the charachter you'd like in your joke, and the program will create it")
 print(r"""
 
           ⠀⠀⠀⠀⡠⠔⠒⠉⢉⣉⣙⣒⣠⣀
